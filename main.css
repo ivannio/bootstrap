@@ -6,3 +6,7 @@ body {
     font-size: 4em;
     text-align: center;
 }
+
+.card {
+    margin: 1em;
+}
